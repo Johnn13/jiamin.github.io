@@ -175,6 +175,12 @@ params:
       items:
         - "Failure detection, diagnosis, and prediction"
         - "Wireless systems and networking"
+    skills:
+      enable: true
+      title: "Research Methodology:"
+      items:
+        - "**Theoretical modeling: **Anomaly detection, time-series analysis, machine learning, deep learning, probabilistic and statistical models."
+        - "**Industry deployment: **Model integration and validation on enterprise-scale AIOps platforms in collaboration with companies such as Huawei, ByteDance, and Tencent."
 
   # Experience
   experience:

@@ -164,7 +164,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/IMG_3598.jpg"
     content: |-
       I graduated from Shenzhen University in 2024, where I conducted in-depth research on LoRa wireless network optimization under the supervision of [Prof. Lu Wang](https://luwang-szu.github.io/). My work focused on improving both the physical and MAC layers of LoRa networks, among other aspects. From 2024 to 2025, I worked as a research assistant at the IoT Research Center of Shenzhen University, continuing my research from my master’s studies.
       

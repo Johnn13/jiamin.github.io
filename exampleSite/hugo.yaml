@@ -159,6 +159,8 @@ params:
         - icon: fab fa-x-twitter
           url: https://example.com
       customIcons:
+        - icon: /Google_Scholar_logo.png
+          url: 
         - icon: /fav.png
           url: "https://example.com"
 

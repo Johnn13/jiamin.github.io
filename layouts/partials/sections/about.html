@@ -26,10 +26,23 @@
             <div class="col-sm-12 col-md-12 col-lg-8 content">
                 {{ .Site.Params.about.content | markdownify }}
             
-                {{ if .Site.Params.about.research.enable }}
-                <strong>{{ .Site.Params.about.research.title }}</strong>
+                {{ if .Site.Params.about.research1.enable }}
+                <strong>{{ .Site.Params.about.research1.title }}</strong>
                 <ul>
-                    {{ range .Site.Params.about.research.items }}
+                    {{ range .Site.Params.about.research1.items }}
+                    <li>{{ . | markdownify }}</li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+            {{ end }}
+            <div class="col-sm-12 col-md-12 col-lg-8 content">
+                {{ .Site.Params.about.content | markdownify }}
+            
+                {{ if .Site.Params.about.research2.enable }}
+                <strong>{{ .Site.Params.about.research2.title }}</strong>
+                <ul>
+                    {{ range .Site.Params.about.research2.items }}
                     <li>{{ . | markdownify }}</li>
                     {{ end }}
                 </ul>

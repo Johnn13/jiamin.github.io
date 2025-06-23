@@ -157,8 +157,9 @@ params:
         - icon: fab fa-github
           url: https://github.com/Johnn13
       customIcons:
-        - icon: /256px-Google_Scholar_logo.svg.png
+        - icon: /fav.png
           url: 
+
 
   # About
   about:

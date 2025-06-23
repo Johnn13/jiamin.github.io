@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Jiamin JIANG"
 theme: hugo-profile
 
 outputs:
@@ -134,7 +134,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Jiamin JIANG."
+    title: "Jiamin jiamin."
     subtitle: "Ph.D. Student @ NKU"
     content: "I am currently a first year Ph. D. candidate 
     at the College of Software, Nankai University, 

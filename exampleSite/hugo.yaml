@@ -169,13 +169,13 @@ params:
       I graduated from Shenzhen University in 2024, where I conducted in-depth research on LoRa wireless network optimization under the supervision of [Prof. Lu Wang](https://luwang-szu.github.io/). My work focused on improving both the physical and MAC layers of LoRa networks, among other aspects. From 2024 to 2025, I worked as a research assistant at the IoT Research Center of Shenzhen University, continuing my research from my master’s studies.
       
       In 2025, I joined the [AIOps Lab](https://nkcs.iops.ai/) at Nankai University, where I am currently conducting research on failure detection, diagnosis, and prediction under the guidance of [Prof. Yongqian Sun](https://nkcs.iops.ai/yongqiansun/) and [Prof. Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/).
-      - "**Research Interest:**\n"
-      - "Failure detection, diagnosis, and prediction\n"
-      - "Wireless systems and networking\n"
+      "**Research Interest:**"
+      "Failure detection, diagnosis, and prediction"
+      "Wireless systems and networking"
 
-      - "**Research Methodology:**\n"
-      - "Theoretical modeling: Anomaly detection, time-series analysis, machine learning, deep learning, probabilistic and statistical models.\n"
-      - "Industry deployment: Model integration and validation on enterprise-scale AIOps platforms in collaboration with companies such as Huawei, ByteDance, and Tencent."
+      "**Research Methodology:**"
+      "Theoretical modeling: Anomaly detection, time-series analysis, machine learning, deep learning, probabilistic and statistical models."
+      "Industry deployment: Model integration and validation on enterprise-scale AIOps platforms in collaboration with companies such as Huawei, ByteDance, and Tencent."
 
   # Experience
   experience:

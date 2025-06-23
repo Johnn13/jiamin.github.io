@@ -159,7 +159,7 @@ params:
         - icon: fab fa-x-twitter
           url: https://example.com
       customIcons:
-        - icon: /Google_Scholar_logo.png
+        - icon: /128px-Google_Scholar_logo.svg
           url: 
         - icon: /fav.png
           url: "https://example.com"

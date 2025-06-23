@@ -140,7 +140,7 @@ params:
     at the College of Software, Nankai University, 
     advised by my insightful supervisor [Prof. Yongqian Sun](https://nkcs.iops.ai/yongqiansun/)
      and [Prof. Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/). 
-     I received Master’s degree in Computer Science from the College of Computer Science and Software Engineering at 
+     I received Master’s degree in Computer Science from the College of Computer Science and Software at 
      Shenzhen University in 2024. Previously, I received my Bachelor’s degree in Software Engineering from the School of Computer Science at Zhuhai College, Beijing Institute of Technology in 2021."
     image: /images/hero.jpg
     bottomImage:
@@ -166,19 +166,15 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I graduated from Shenzhen University in 2024, where I conducted in-depth research on LoRa wireless network optimization under the supervision of [Prof.Lu Wang](https://luwang-szu.github.io/). My work focused on improving both the physical and MAC layers of LoRa networks, among other aspects. From 2024 to 2025, I worked as a research assistant at the IoT Research Center of Shenzhen University, continuing my research from my master’s studies.
+      I graduated from Shenzhen University in 2024, where I conducted in-depth research on LoRa wireless network optimization under the supervision of [Prof. Lu Wang](https://luwang-szu.github.io/). My work focused on improving both the physical and MAC layers of LoRa networks, among other aspects. From 2024 to 2025, I worked as a research assistant at the IoT Research Center of Shenzhen University, continuing my research from my master’s studies.
       
       In 2025, I joined the [AIOps Lab](https://nkcs.iops.ai/) at Nankai University, where I am currently conducting research on failure detection, diagnosis, and prediction under the guidance of [Prof. Yongqian Sun](https://nkcs.iops.ai/yongqiansun/) and [Prof. Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/).
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Research Interest:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Failure detection, diagnosis, and prediction"
+        - "Wireless systems and networking"
 
   # Experience
   experience:

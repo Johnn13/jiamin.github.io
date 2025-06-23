@@ -157,7 +157,7 @@ params:
         - icon: fab fa-github
           url: https://github.com/Johnn13
       customIcons:
-        - icon: Nankai_University_logo.svg
+        - icon: 256px-Google_Scholar_logo.png
           url: 
 
 

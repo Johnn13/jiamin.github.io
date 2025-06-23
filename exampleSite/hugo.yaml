@@ -178,8 +178,8 @@ params:
 
       **Research Methodology:**
       
-      1) Theoretical modeling: Anomaly detection, time-series analysis, machine learning, deep learning, probabilistic and statistical models.
-      2) Industry deployment: Model integration and validation on enterprise-scale AIOps platforms in collaboration with companies such as Huawei, ByteDance, and Tencent.
+      1) <big>Theoretical modeling</big>: Anomaly detection, time-series analysis, machine learning, deep learning, probabilistic and statistical models.
+      2) <u>Industry deployment</u>: Model integration and validation on enterprise-scale AIOps platforms in collaboration with companies such as Huawei, ByteDance, and Tencent.
 
   # Experience
   experience:

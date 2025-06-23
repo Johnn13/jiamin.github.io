@@ -168,9 +168,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently a first year Ph. D. candidate at the College of Software, Nankai University, advised by my insightful supervisor [Prof. Yongqian Sun](https://nkcs.iops.ai/yongqiansun/) and [Prof. Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/). 
+      
+      I received Master’s degree in Computer Science from the College of Computer Science and Software Engineering at Shenzhen University in 2024. Previously, I received my Bachelor’s degree in Software Engineering from the School of Computer Science at Zhuhai College, Beijing Institute of Technology in 2021.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"

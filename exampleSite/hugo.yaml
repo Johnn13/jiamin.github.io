@@ -134,7 +134,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Jiamin Jiang."
+    title: "Jiamin JIANG."
     subtitle: "Ph.D. Student @ NKU"
     content: "I am currently a first year Ph. D. candidate 
     at the College of Software, Nankai University, 
@@ -155,7 +155,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/Johnn13
         - icon: fab fa-x-twitter
           url: https://example.com
       customIcons:

@@ -22,6 +22,19 @@
                 </ul>
                 {{ end }}
             </div>
+            {{ end }}
+            <div class="col-sm-12 col-md-12 col-lg-8 content">
+                {{ .Site.Params.about.content | markdownify }}
+            
+                {{ if .Site.Params.about.research.enable }}
+                <strong>{{ .Site.Params.about.research.title }}</strong>
+                <ul>
+                    {{ range .Site.Params.about.research.items }}
+                    <li>{{ . | markdownify }}</li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
         </div>
     </div>
 </section>

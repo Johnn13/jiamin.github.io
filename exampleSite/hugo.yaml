@@ -149,7 +149,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: https://github.com/Johnn13/jiamin.github.io/blob/master/static/%E6%B1%9F%E4%BD%B3%E7%8F%89CV.pdf
       download: true
       newPage: false
     socialLinks:

@@ -170,16 +170,16 @@ params:
       
       In 2025, I joined the [AIOps Lab](https://nkcs.iops.ai/) at Nankai University, where I am currently conducting research on failure detection, diagnosis, and prediction under the guidance of [Prof. Yongqian Sun](https://nkcs.iops.ai/yongqiansun/) and [Prof. Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/).
       
-      **Research Interest:**
+      <big>**Research Interest:**</big>
 
       1) Failure detection, diagnosis, and prediction.
 
       2) Wireless systems and networking.
 
-      **Research Methodology:**
+      <big>**Research Methodology:**</big>
       
-      1) <big>Theoretical modeling</big>: Anomaly detection, time-series analysis, machine learning, deep learning, probabilistic and statistical models.
-      2) <u>Industry deployment</u>: Model integration and validation on enterprise-scale AIOps platforms in collaboration with companies such as Huawei, ByteDance, and Tencent.
+      1) <u>**Theoretical modeling: **</u> Anomaly detection, time-series analysis, machine learning, deep learning, probabilistic and statistical models.
+      2) <u>**Industry deployment: ** </u> Model integration and validation on enterprise-scale AIOps platforms in collaboration with companies such as Huawei, ByteDance, and Tencent.
 
   # Experience
   experience:

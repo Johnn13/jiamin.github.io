@@ -59,7 +59,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Jiamin's Page"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -137,7 +137,7 @@ params:
     title: "Jiamin Jiang."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    image: /images/hero.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false

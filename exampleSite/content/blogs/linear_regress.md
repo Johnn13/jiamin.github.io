@@ -42,7 +42,7 @@ $$ L(\mathbf{w}, b) =\frac{1}{n}\sum_{i=1}^n l^{(i)}(\mathbf{w}, b) =\frac{1}{n}
 
 在训练模型时，我们希望寻找一组参数 \\( \mathbf{w}^*, b^* \\)，这组参数能最小化在所有训练样本上的总损失。如下式：
 
-$$ \mathbf{w}^*, b^* = \operatorname*{argmin}_{\mathbf{w}, b}\ L(\mathbf{w}, b) $$
+\\[ \mathbf{w}^*, b^* = \operatorname*{argmin}_{\mathbf{w}, b}\ L(\mathbf{w}, b) \\]
 
 ## 解析解
 

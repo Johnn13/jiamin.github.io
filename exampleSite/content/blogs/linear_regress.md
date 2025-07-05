@@ -86,4 +86,4 @@ $$
 
 $$ \mathbf{w}_{t}=\mathbf{w}_{t-1}-\eta \frac{\partial \ell}{\partial \mathbf{w}_{t-1}} $$
 
-- 沿梯度方向是增加损失函数 \\( \ell(\mathbf{X}, \mathbf{y}, \mathbf{w}) \\) 的值，因此在导数前面加了负
+- 沿梯度方向是增加损失函数 \\( \ell(\mathbf{X}, \mathbf{y}, \mathbf{w}) \\) 的值，因此在导数前面加了负号

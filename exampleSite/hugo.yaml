@@ -274,6 +274,7 @@ params:
           Authored and published two first-author papers on LoRa network optimization:
           - **DCSS-LoRa**: Proposed a novel modulation and demodulation technique named *Dual Chirp Spread Spectrum (DCSS)*. By leveraging the structure of LoRa preambles, the method modulates data via frequency differences with a reference upchirp, embedding additional data into the preamble to enhance transmission efficiency.
           - **SlideLoRa**: Developed the first reliable and efficient channel detection system for LoRa networks. It monitors all logical channels with diverse conditions. The core technique introduces sliding-window-based peak feature recovery, enabling extraction of symbol features under different channel states and significantly improving detection reliability.
+          
           Granted a Chinese patent on LoRa network recovery: "*A Cluster-based Low-Power Wide Area Network Recovery Method*", focusing on efficient and robust recovery strategies for LPWAN environments.
       - title: "Bachelor in Software Engineering"
         school:

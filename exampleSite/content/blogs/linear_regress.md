@@ -1,6 +1,6 @@
 ---
 title: "Chapter1 线性回归"
-date: 2025-7-5T23:00:33+05:30
+date: 2025-07-05T21:30:45+08:00
 draft: false
 author: "Jiamin Jiang"
 # tags:

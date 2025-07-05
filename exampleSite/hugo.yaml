@@ -284,10 +284,10 @@ params:
         # GPA: "3.9 out of 5.0"
         content: |-
           Gained solid foundational knowledge in J2EE-based web development, including HTML, CSS, JavaScript, jQuery, MySQL, and backend frameworks such as SSH (Struts, Spring, Hibernate) and SSM (Spring, SpringMVC, MyBatis).  
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+        #   url: "https://example.com"
       # - title: "High School"
       #   school:
       #     name: "Thomas Jefferson High School for Science and Technology."

@@ -259,10 +259,10 @@ params:
           url: "https://cs.nankai.edu.cn/index.htm"
         date: "2025 - now"
         # GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        # content: |-
+        #   Extracurricular Activities
+        #     - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        #     - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Master in Computer Science"
         school:
           name: "Shenzhen University, College of Computer Science and Software Engineering"
@@ -270,9 +270,11 @@ params:
         date: "2021 - 2024"
         # GPA: "3.8 out of 5.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Initiated and independently led the deployment of a LoRa-based IoT network environment before formal admission into the graduate program.
+          Authored and published two first-author papers on LoRa network optimization:
+          - **DCSS-LoRa**: Proposed a novel modulation and demodulation technique named *Dual Chirp Spread Spectrum (DCSS)*. By leveraging the structure of LoRa preambles, the method modulates data via frequency differences with a reference upchirp, embedding additional data into the preamble to enhance transmission efficiency.
+          - **SlideLoRa**: Developed the first reliable and efficient channel detection system for LoRa networks. It monitors all logical channels with diverse conditions. The core technique introduces sliding-window-based peak feature recovery, enabling extraction of symbol features under different channel states and significantly improving detection reliability.
+          Granted a Chinese patent on LoRa network recovery: "*A Cluster-based Low-Power Wide Area Network Recovery Method*", focusing on efficient and robust recovery strategies for LPWAN environments.
       - title: "Bachelor in Software Engineering"
         school:
           name: "Beijing Institute of Technology, Zhuhai, School of Computer Science"

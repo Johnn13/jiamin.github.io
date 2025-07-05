@@ -282,13 +282,7 @@ params:
         date: "2016 - 2020"
         # GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Gained solid foundational knowledge in J2EE-based web development, including HTML, CSS, JavaScript, jQuery, MySQL, and backend frameworks such as SSH (Struts, Spring, Hibernate) and SSM (Spring, SpringMVC, MyBatis).  
         featuredLink:
           enable: true
           name: "My academic record"

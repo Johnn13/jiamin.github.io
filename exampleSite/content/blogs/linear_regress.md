@@ -4,23 +4,17 @@
 
 当我们的输入包含 $d$ 个特征时，我们将预测结果 $\hat{y}$，（通常使用“尖角”符号表示 $y$ 的估计值）表示为：
 
-$$
-\hat{y} = w_1  x_1 + ... + w_d  x_d + b
-$$
+$$ \hat{y} = w_1  x_1 + ... + w_d  x_d + b $$
 
 将所有特征放到向量  $\mathbf{x} \in \mathbb{R}^d$ 中，并将所有权重放到向量 $\mathbf{w} \in \mathbb{R}^d$ 中，通过点积可以表示模型：
 
-$$
-\hat{y} = \mathbf{w}^\top \mathbf{x} + b
-$$
+$$ \hat{y} = \mathbf{w}^\top \mathbf{x} + b $$
 
 向量$\mathbf{x}$对应于单个数据样本的特征。进一步，我们考虑多个样本点的情况。用符号表示的矩阵$\mathbf{X} \in \mathbb{R}^{n \times d}$，可以很方便地引用我们整个数据集的$n$个样本。其中，$\mathbf{X}$的每一行是一个样本，每一列是一种特征。
 
 对于特征集合$\mathbf{X}$，预测值$\hat{\mathbf{y}} \in \mathbb{R}^n$可以通过矩阵-向量乘法表示为：
 
-$$
-{\hat{\mathbf{y}}} = \mathbf{X} \mathbf{w} + b
-$$
+$$ {\hat{\mathbf{y}}} = \mathbf{X} \mathbf{w} + b $$
 
 给定训练数据特征$\mathbf{X}$和对应的已知标签$\mathbf{y}$，线性回归的目标是找到一组权重向量$\mathbf{w}$和偏置$b$使得新样本预测标签的误差尽可能小。
 
@@ -28,15 +22,11 @@ $$
 
 回归问题中最常用的损失函数是平方误差函数，当样本$i$的预测值为$\hat{y}^{(i)}$，其相应的真实标签为$y^{(i)}$时，平方误差可以定义为以下公式：
 
-$$
-l^{(i)}(\mathbf{w}, b) = \frac{1}{2} \left(\hat{y}^{(i)} - y^{(i)}\right)^2
-$$
+$$ l^{(i)}(\mathbf{w}, b) = \frac{1}{2} \left(\hat{y}^{(i)} - y^{(i)}\right)^2 $$
 
 常数$\frac{1}{2}$不会带来本质的差别，但这样在形式上稍微简单一些（因为当我们对损失函数求导后常数系数为$1$），带入${\hat{\mathbf{y}}}$求平均得到：
 
-$$
-L(\mathbf{w}, b) =\frac{1}{n}\sum_{i=1}^n l^{(i)}(\mathbf{w}, b) =\frac{1}{n} \sum_{i=1}^n \frac{1}{2}\left(\mathbf{w}^\top \mathbf{x}^{(i)} + b - y^{(i)}\right)^2
-$$
+$$ L(\mathbf{w}, b) =\frac{1}{n}\sum_{i=1}^n l^{(i)}(\mathbf{w}, b) =\frac{1}{n} \sum_{i=1}^n \frac{1}{2}\left(\mathbf{w}^\top \mathbf{x}^{(i)} + b - y^{(i)}\right)^2 $$
 
 在训练模型时，我们希望寻找一组参数（$\mathbf{w}^*, b^*$），这组参数能最小化在所有训练样本上的总损失。如下式：解析解
 

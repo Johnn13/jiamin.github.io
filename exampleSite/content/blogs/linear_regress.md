@@ -3,10 +3,8 @@ title: "Chapter1 线性回归"
 date: 2025-07-05T21:30:45+08:00
 draft: false
 author: "Jiamin Jiang"
-# tags:
-#   - Markdown syntax
-#   - Mathjax
-#   - example
+tags:
+  - Deep Learing
 image: /images/d2l.png
 description: "这是一个李沐课程《动手学深度学习》的一章节"
 toc: true

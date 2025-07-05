@@ -1,3 +1,18 @@
+---
+title: "Chapter1 线性回归"
+date: 2025-7-5T23:00:33+05:30
+draft: false
+author: "Jiamin Jiang"
+tags:
+  - Markdown syntax
+  - Mathjax
+  - example
+image: /images/d2l.png
+description: "这是一个李沐课程《动手学深度学习》的一章节"
+toc: true
+mathjax: true
+---
+
 # Chapter1 线性回归
 
 问题定义：给定一个数据集，我们的目标是寻找模型的权重$\mathbf{w}$和偏置$b$。
